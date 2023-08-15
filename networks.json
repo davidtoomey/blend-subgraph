@@ -1,0 +1,8 @@
+{
+  "mainnet": {
+    "ERC1967Proxy": {
+      "address": "0x29469395eAf6f95920E59F858042f0e28D98a20B",
+      "startBlock": 0
+    }
+  }
+}
